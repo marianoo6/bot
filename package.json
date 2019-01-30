@@ -1,0 +1,21 @@
+{
+  "name": "botijo666bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "bluebird": "^3.5.3",
+    "express": "^4.16.4",
+    "google-tts-api": "0.0.4",
+    "telegraf": "^3.25.5",
+    "telegraf-wit": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
